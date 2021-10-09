@@ -1,0 +1,71 @@
+body {background-image: url(space.jpg);
+    background-size: cover;}
+
+h1 {text-align: center;
+    color: grey;
+    font-weight: bold;
+    text-decoration: underline;}
+
+#me {position: relative;
+    bottom: 87px;
+    font-size: 30px;}
+
+#me:link {color: black;
+    background-color: transparent;
+    text-decoration: none;}
+      
+#me:visited {color: pink;
+    background-color: transparent;
+    text-decoration: none;}
+      
+#me:hover {color: red;
+    background-color: transparent;
+    text-decoration: none;}
+
+#hobby {position: relative;
+    bottom: 87px;
+    font-size: 30px;}
+
+#hobby:link {color: black;
+    background-color: transparent;
+    text-decoration: none;}
+          
+#hobby:visited {color: lightblue;
+    background-color: transparent;
+    text-decoration: none;}
+        
+#hobby:hover {color: blue;
+    background-color: transparent;
+    text-decoration: none;}
+
+#dice {position: relative;
+    bottom: 87px;
+    font-size: 30px;}
+
+#dice:link {color: black;
+    background-color: transparent;
+    text-decoration: none;}
+            
+#dice:visited {color: lightgreen;
+    background-color: transparent;
+    text-decoration: none;}
+        
+#dice:hover {color: lime;
+    background-color: transparent;
+    text-decoration: none;}
+
+#map {position: relative;
+    bottom: 87px;
+    font-size: 30px;}
+
+#map:link {color: black;
+    background-color: transparent;
+    text-decoration: none;}
+            
+#map:visited {color: lightblue;
+    background-color: transparent;
+    text-decoration: none;}
+        
+#map:hover {color: blue;
+    background-color: transparent;
+    text-decoration: none;}
