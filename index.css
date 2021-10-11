@@ -6,6 +6,9 @@ h1 {text-align: center;
     font-weight: bold;
     text-decoration: underline;}
 
+
+
+
 #me {position: relative;
     bottom: 87px;
     font-size: 30px;}
@@ -21,6 +24,9 @@ h1 {text-align: center;
 #me:hover {color: red;
     background-color: transparent;
     text-decoration: none;}
+
+
+
 
 #hobby {position: relative;
     bottom: 87px;
@@ -38,6 +44,9 @@ h1 {text-align: center;
     background-color: transparent;
     text-decoration: none;}
 
+
+
+
 #dice {position: relative;
     bottom: 87px;
     font-size: 30px;}
@@ -54,6 +63,9 @@ h1 {text-align: center;
     background-color: transparent;
     text-decoration: none;}
 
+
+
+
 #map {position: relative;
     bottom: 87px;
     font-size: 30px;}
@@ -67,5 +79,23 @@ h1 {text-align: center;
     text-decoration: none;}
         
 #map:hover {color: blue;
+    background-color: transparent;
+    text-decoration: none;}
+
+
+
+#map2 {position: relative;
+    bottom: 87px;
+    font-size: 30px;}
+
+#map2:link {color: black;
+    background-color: transparent;
+    text-decoration: none;}
+            
+#map2:visited {color: pink;
+    background-color: transparent;
+    text-decoration: none;}
+        
+#map2:hover {color: red;
     background-color: transparent;
     text-decoration: none;}
