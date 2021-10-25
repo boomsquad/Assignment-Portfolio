@@ -99,3 +99,21 @@ h1 {text-align: center;
 #map2:hover {color: red;
     background-color: transparent;
     text-decoration: none;}
+
+
+
+#map_v2 {position: relative;
+    bottom: 87px;
+    font-size: 30px;}
+
+#map_v2:link {color: black;
+    background-color: transparent;
+    text-decoration: none;}
+            
+#map_v2:visited {color: lightgreen;
+    background-color: transparent;
+    text-decoration: none;}
+        
+#map_v2:hover {color: lime;
+    background-color: transparent;
+    text-decoration: none;}
